@@ -1,0 +1,6 @@
+//State de Productos
+
+export const OBTENER_PRODUCTOS_EXITO = 'OBTENER_PRODUCTOS'
+
+
+export const SELECCIONAR_PRODUCTO = 'SELECCIONAR_PRODUCTO';
